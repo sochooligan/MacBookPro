@@ -1,0 +1,39 @@
+Terminal
+Version 2.11 (440)
+
+Preferences...
+
+    General
+    Profiles
+      Text
+          Background
+		Red:     69
+		Green:   69
+		Blue:    69
+		Opacity: 80%
+		Blur:    80%
+	  Font
+		SF Mono Regular 11
+	  Text
+		Red:     220
+		Green:   220
+		Blue:    220
+		Opacity: 100%
+          Bold Text
+	        Red:     255
+		Green:   255
+		Blue:    255
+		Opacity: 100%
+          Selection
+		Red:     131
+		Green:   128
+		Blue:    146
+		Opacity: 70%
+          Cursor
+		选中: Block
+	        Red:     111
+		Green:   153
+		Blue:    39
+		Opacity: 100%
+      Keyboard
+          Use Option as Meta key

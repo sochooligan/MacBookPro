@@ -28,7 +28,7 @@ Preferences...
 		Red:     131
 		Green:   128
 		Blue:    146
-		Opacity: 70%
+		Opacity: 100%
           Cursor
 		选中: Block
 	        Red:     111

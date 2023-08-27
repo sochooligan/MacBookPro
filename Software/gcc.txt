@@ -1,0 +1,12 @@
+1. brew install gcc
+
+2. /usr/local/Cellar/gcc/13.1.0/bin/
+  在目录下创建软链接: ln -s g++-13 g++
+
+3. 在文件/etc/paths第一行放入
+/usr/local/Cellar/gcc/13.1.0/bin
+
+4. 重启terminal
+
+5. g++ -v
+  gcc version 13.1.0 (Homebrew GCC 13.1.0)

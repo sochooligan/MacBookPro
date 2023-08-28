@@ -1,0 +1,6 @@
+1. git not displaying unicode file names
+    git config --global core.quotePath false
+https://stackoverflow.com/questions/34549040/git-not-displaying-unicode-file-names
+
+2.
+

@@ -7,17 +7,17 @@ Preferences...
     Profiles
       Text
           Background
-		Red:     69
-		Green:   69
-		Blue:    69
-		Opacity: 80%
-		Blur:    80%
+		Red:     69	63
+		Green:   69	65
+		Blue:    69	67
+		Opacity: 80%	90%
+		Blur:    80%	80%
 	  Font
 		SF Mono Regular 11
 	  Text
-		Red:     220
-		Green:   220
-		Blue:    220
+		Red:     220	230
+		Green:   220	230
+		Blue:    220	230
 		Opacity: 100%
           Bold Text
 	        Red:     255

@@ -1,7 +1,21 @@
 Wubi - Simplified
+  Keyboard:
+      Adjust keyboard brightness in low light  不选
 
-1. Input Sources
-   Wubi version: Wubi New-Century
+  Text:
+      Correct spelling automatically  不选
+      Capitalize words automatically  不选
+      Add peroid with double-space    不选
+
+      Use smart quotes and dases      不选
+
+  Input Sources:
+      Wubi version: Wubi New-Century
+
+桌面的“五”图标:
+  右键:
+      Use Halfwidth Punctuation       不选
+
 
 2008.1.1  新世纪版
 ----------------------------------------

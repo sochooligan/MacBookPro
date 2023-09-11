@@ -1,0 +1,11 @@
+
+M-x customize-group RET magit-section-faces RET
+
+Hide [Magit Section Highlight] face: [sample]
+    [ State ]: STANDARD.
+    Face for highlighting the current section.
+->  [X] Background: grey95         [ Choose ]  (sample)
+    [X] Extend: [Value Menu] On
+    Show All Attributes
+
+->  [X] Background: color-25         [ Choose ]  (sample)

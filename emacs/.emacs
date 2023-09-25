@@ -39,3 +39,13 @@
 (add-hook 'c-mode-hook 'my-c-mode-hook) 
 
 (setq-default fill-column 77)		; 每行 77 个字符
+
+;; eshell 长路径缩减
+(setq eshell-prompt-function
+      (lambda ()
+	(concat (propertize (format-time-string "%m-%d %H:%M " (current-time))
+			    'face `(:foreground "brightyellow"))
+		(propertize (car (last (split-string (eshell/pwd) "/")))
+			    'face `(:foreground "brightblue"))
+	        (propertize "/" 'face `(:foreground "brightblue"))
+		(if (= (user-uid) 0) " # " " $ "))))

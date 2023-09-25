@@ -1,0 +1,76 @@
+KeyCue 软件分析:
+
+1. logo 外观
+   a.非常有质感的图标:
+	尼龙绳 材质
+   	⌘ 形
+
+2. Menu
+   About KeyCue  Activation   View  Editor  Theme  Custom  Registration   Contact 
+   -----|------      |                |                         |            |
+        |            |                |                         |            |      
+        |------------|----------------|-------------------------|------------|--- About KeyCue...
+        |            |                |                         |            |--- Contact US...
+        |            |                |                         |                 ----------
+        |            |----------------|-------------------------|---------------- KeyCue Settings...
+        |                             |                         |---------------- Registration...
+        |-----------------------------|------------------------------------------ Check for Upadates...
+                                      |                                           ----------
+                                      |                                           Help...      ----------------  KeyCue User's Guide.pdf
+                                      |                                           ----------
+                                      |                                           Quit
+     (单独的菜单)                     |
+   New in Key Cue --------------------|
+   
+3. KeyCue User's Guide Version 10.2
+    a. 公司是 Ergonis Software, 奥地利
+       https://ergonis.com
+    b. license形式
+      single-user license, 可以用在两台 电脑上
+      multi-computer license, 多于两台 电脑上
+      family pack license, 5台电脑
+      
+    c. 使用方式
+      长按 command 调出 快捷键显示页
+    
+4. 评价
+    对认识 快捷键 很有帮助
+    使用带来一定的思维上的不快
+    不使用!
+    
+5. Copy Dianostics Report (About KeyCue)
+
+ V2.0 (????/com.apple.AirPlayUIAgent)
+ AppSSOAgent V1.0 (/com.apple.AppSSOAgent)
+ AquaAppearanceHelper V1.0 (/com.apple.AquaAppearanceHelper)
+ com.apple.dock.extra V1.0 (????/com.apple.dock.extra)
+ ControlCenter V1.0 (????/com.apple.controlcenter)
+ CoreLocationAgent V2420.19.23 (????/com.apple.CoreLocationAgent)
+ CoreServicesUIAgent V358.10 (????/com.apple.coreservices.uiagent)
+ Dock V1.8 (dock/com.apple.dock)
+ FileOpenBroker V1.0 (????/fileopen.FileOpenBroker)
+ imklaunchagent V1.0 (????/)
+ Keychain Circle Notification V1.0
+ (????/com.apple.security.Keychain-Circle-Notification)
+ KeyCue V10.2 (KeyC/com.macility.keycue)
+ loginwindow V9.0 (lgnw/com.apple.loginwindow)
+ NotificationCenter V1.0 (/com.apple.notificationcenterui)
+ QuickLookUIService V1.0 (/com.apple.quicklook.QuickLookUIService)
+ RdrCEF V19.012.20034 (????/com.adobe.AdobeRdrCEF)
+ SCIM_Extension V479.3 (????/com.apple.inputmethod.SCIM)
+ Siri V3006.2.1 (????/com.apple.Siri)
+ SiriNCService V3006.2.1 (????/com.apple.SiriNCService)
+ SoftwareUpdateNotificationManag V1.0
+ (????/com.apple.SoftwareUpdateNotificationManager)
+ Spotlight V1.0 (????/com.apple.Spotlight)
+ SystemUIServer V1.7 (syui/com.apple.systemuiserver)
+ talagent V1.0 (????/com.apple.talagent)
+ TextInputMenuAgent V1.0 (????/com.apple.TextInputMenuAgent)
+ TextInputSwitcher V1.1 (????/com.apple.TextInputSwitcher)
+ UIKitSystem V1.0 (????/com.apple.UIKitSystemApp)
+ universalaccessd V1.0 (????/)
+ ViewBridgeAuxiliary V1.0 (????/com.apple.ViewBridgeAuxiliary)
+ ViewBridgeAuxiliary V1.0 (????/com.apple.ViewBridgeAuxiliary)
+ WiFiAgent V17.0 (????/com.apple.wifi.WiFiAgent)
+
+~

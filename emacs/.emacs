@@ -43,7 +43,7 @@
 ;; eshell 缩减路径
 (setq eshell-prompt-function
       (lambda ()
-	(concat (propertize (format-time-string "%m-%d %H:%M " (current-time))
+	(concat (propertize (format-time-string "%H:%M %d-%m " (current-time))
 			    'face `(:foreground "brightyellow"))
 		(propertize (car (last (split-string (eshell/pwd) "/")))
 			    'face `(:foreground "brightblue"))

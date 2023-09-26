@@ -37,7 +37,7 @@
 (setq-default major-mode 'c++-mode)
 (add-hook 'c++-mode-hook 'my-c++-mode-hook) 
 
-;; c-mode先择对齐风格
+;; c-mode选择对齐风格
 (defun my-c-mode-hook()
   (c-set-style "user"))
 (setq-default major-mode 'c-mode)

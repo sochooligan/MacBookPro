@@ -22,7 +22,7 @@
   (kill-buffer (current-buffer)))
 (global-set-key (kbd "C-x k") 'kill-current-buffer)
 
-(setq make-bakcup-files nil) 		; do not make back up files
+(setq make-backup-files nil) 		; do not make back up files
 (setq scroll-step 1)			; 当行位于最上和最下，滚动时不跳到屏幕中间，而时只移动一行
 ;;(setq auto-save-default nil)            ; 当文件未保存就关闭时，生成一个包含关闭时内容的 #号开头的文件
 (setq-default fill-column 77)		; 每行 77 个字符

@@ -1,0 +1,44 @@
+sign	Meaning					Unicode		中文名称
+------------------------------------------------------------------------
+×       Multiplication sign			U+ 00 D7	乘号
+÷	Division sign				U+ 00 F7	除号
+
+¥	Yen sign 				U+ 00 A5	日元标志
+¦	Boken bar				U+ 00 A6
+§	Section sign				U+ 00 A7
+
+©	Copyright sign				U+ 00 A9
+®	Registered trade mark sign		U+ 00 AE
+
+° 	Degree sign				U+ 00 B0	度
+±	Plus-minus sign				U+ 00 B1
+¹	Superscript digit one           	U+ 00 B9
+²	Superscript digit two			U+ 00 B2
+³	Superscript digit three			U+ 00 B3
+
+
+†	Dagger	    	  			U+ 20 20
+
+⁰	Superscript digit zero		   	U+ 20 70
+ⁱ	Superscript latin small letter i   	U+ 20 71
+⁴~⁹	Superscript digit four			U+ 20 74 ~ U+ 20 79
+⁺	Superscript plus sign			U+ 20 7A
+⁻	Superscript minus			U+ 20 7B
+⁼	Superscript equals sign			U+ 20 7C
+⁽	Superscript opening parenthesis		U+ 20 7D
+⁾	Superscript right parenthesis		U+ 20 7E
+ⁿ	Superscript latin small letter n   	U+ 20 7F
+
+·	Middle dot				U+ 00 B7
+˙	Dot above				U+ 02 D9
+•	Bullet	 				U+ 20 22
+⋅	Dot Operator				U+ 22 C5	点乘
+
+■	Black square				U+ 25 A0
+□	White square 				U+ 25 A1
+
+◼	Black medium square			U+ 25 FC
+◻	White medium square                     U+ 25 FB
+
+▪       Black small square			U+ 25 AA
+▫	White small square			U+ 25 AB

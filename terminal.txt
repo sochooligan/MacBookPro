@@ -1,6 +1,7 @@
 Terminal
 Version 2.11 (440)
 
+** Night
 Preferences...
 
     General
@@ -23,6 +24,42 @@ Preferences...
 	        Red:     255
 		Green:   255
 		Blue:    255
+		Opacity: 100%
+          Selection
+		Red:     131
+		Green:   128
+		Blue:    146
+		Opacity: 100%
+          Cursor
+		选中: Block
+	        Red:     111
+		Green:   153
+		Blue:    39
+		Opacity: 100%
+      Keyboard
+          Use Option as Meta key
+
+** Day
+Preferences...
+
+    General
+    Profiles
+      Text
+          Background
+		Red:     192   232
+		Green:   194   232
+		Blue:    196   232
+		Opacity: 27%   90%
+		Blur:    80%   80%
+	  Text
+		Red:     0
+		Green:   0
+		Blue:    0
+		Opacity: 100%
+          Bold Text
+	        Red:     0
+		Green:   0
+		Blue:    0
 		Opacity: 100%
           Selection
 		Red:     131

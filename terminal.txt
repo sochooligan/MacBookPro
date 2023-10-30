@@ -46,10 +46,10 @@ Preferences...
     Profiles
       Text
           Background
-		Red:     192   232
+		Red:     192   234
 		Green:   194   232
-		Blue:    196   232
-		Opacity: 27%   90%
+		Blue:    196   240
+		Opacity: 27%   30%
 		Blur:    80%   80%
 	  Text
 		Red:     0

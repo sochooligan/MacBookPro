@@ -12,3 +12,8 @@
     输入{.txt回车符}:
         .txt
         C-q C-j             <ret>
+
+** 输入一个<Tab>
+    C-q Tab
+    
+** 

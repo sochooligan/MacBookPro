@@ -1,0 +1,4 @@
+** Keyboard
+
+    Modidier Keys...
+      Caps Lock Key: ^ Control

@@ -1,0 +1,536 @@
+** OS
+    macOS BigSur Version 11.7.10
+    MacBookPro
+    Processor  2.6 GHz Dual-Core Intel Core i5
+    Memory  8 GB 1600 MHz DDR3    
+    Graphics  Intel Iris 1536 MB
+    Serial Number  C17ND0A5G3QH
+    Displays  Built-in Retina Display 13.3-inch (2560 x 1600)
+    
+** Hardware(硬件)
+    ATA
+    Apple Pay
+    Autio
+      Devices
+          Built-in Microphone:
+            Default Input Device:	Yes
+            Input Channels:	2
+            Manufacturer:	Apple Inc.
+            Current SampleRate:	44100
+            Transport:	Built-in
+            Input Source:	Internal Microphone
+          
+          Built-in Output:
+          
+            Default Output Device:	Yes
+            Default System Output Device:	Yes
+            Manufacturer:	Apple Inc.
+            Output Channels:	2
+            Current SampleRate:	44100
+            Transport:	Built-in
+            Output Source:	Internal Speakers
+    Bluetooth
+      Apple Bluetooth Software Version:	8.0.5d7
+      Hardware, Features, and Settings:
+          Address:	6C-40-08-8D-E6-A5
+          Bluetooth Low Energy Supported:	Yes
+          Handoff Supported:	Yes
+          Instant Hot Spot Supported:	Yes
+          Manufacturer:	Broadcom
+          Transport:	USB
+          Chipset:	20702B0
+          Firmware Version:	v150 c9319
+          Bluetooth Power:	Off
+          Auto Seek Pointing:	On
+          Remote wake:	On
+          Vendor ID:	0x05AC
+          Product ID:	0x8289
+          Bluetooth Core Spec:	4.0 (0x6)
+          HCI Revision:	0x2467
+          LMP Version:	4.0 (0x6)
+          LMP Subversion:	0x4196
+          Auto Seek Keyboard:	On
+
+      Devices (Paired, Configured, etc.):
+          JS270:
+              Address:	71-7E-BB-A3-8D-EF
+              Major Type:	Audio
+              Minor Type:	Headset
+              Services:	JL_A2DP, JL_HFP
+              Paired:	Yes
+              Configured:	Yes
+              Connected:	No
+              Bluetooth Core Spec:	5.1
+              Firmware Version:	0x0240
+              Vendor ID:	0x05D6
+              Product ID:	0x000A
+              Class of Device:	0x04 0x01 0x240404
+              EDR Supported:	Yes
+              eSCO Supported:	Yes
+              SSP Supported:	Yes
+
+      Services:
+          Bluetooth File Transfer:
+              Folder other devices can browse:	~/Public
+              When receiving items:	Accept all without warning
+              State:	Disabled
+          Bluetooth File Exchange:
+              Folder for accepted items:	~/Downloads
+              When other items are accepted:	Save to location
+              When receiving items:	Accept all without warning
+              State:	Disabled
+          Bluetooth Internet Sharing:
+              State:	Disabled
+      Incoming Serial Ports:
+          Bluetooth-Incoming-Port:
+              RFCOMM Channel:	3
+              Requires Authentication:	No
+
+    Camera
+      FaceTime HD Camera:
+          Model ID:	Apple Camera VendorID_0x106B ProductID_0x1570
+          Unique ID:	CC243620KX3F6VVD2
+  
+    Card Reader
+      Built in SD Card Reader:
+          Vendor ID:	0x05ac
+          Product ID:	0x8406
+          Revision:	3.00
+          Serial Number:	820
+  
+    Controller
+      This computer doesn’t contain any Controller devices.
+
+    Diagnostics
+      Power On Self-Test:
+          Last Run:	2023/12/4, 8:34 AM
+          Result:	Passed
+  
+    Disc Burning
+      No disc burning device was found. If the device is external, make sure it’s connected and turned on.
+    Ethernet Cards
+      This computer does not appear to have any PCI Ethernet cards installed.
+      
+    Fibre Channel
+      This computer doesn't contain any Fibre Channel devices. If you
+      installed Fibre Channel adapters, make sure they are seated properly
+      and that any devices, hubs, and switches are connected properly and
+      powered on.
+    
+    FireWire
+      No FireWire ports were found.
+    
+    Graphics/Displays
+      Intel Iris:
+          Chipset Model:	Intel Iris
+          Type:	GPU
+          Bus:	Built-In
+          VRAM (Dynamic, Max):	1536 MB
+          Vendor:	Intel
+          Device ID:	0x0a2e
+          Revision ID:	0x0009
+          Metal Family:	Supported, Metal GPUFamily macOS 1
+          Displays:
+            Color LCD:
+                Display Type:	Built-In Retina LCD
+                Resolution:	2560 x 1600 Retina
+                Framebuffer Depth:	24-Bit Color (ARGB8888)
+                Main Display:	Yes
+                Mirror:	Off
+                Online:	Yes
+                Automatically Adjust Brightness:	Yes
+                Connection Type:	Internal
+
+    Memory
+      Memory Slots:
+        ECC:	Disabled
+        Upgradeable Memory:	No
+      
+        BANK 0/DIMM0:
+            Size:	4 GB
+            Type:	DDR3
+            Speed:	1600 MHz
+            Status:	OK
+            Manufacturer:	0x80AD
+            Part Number:	0x484D54343531533641465238412D50422020
+            Serial Number:	-
+        
+        BANK 1/DIMM0:
+            Size:	4 GB
+            Type:	DDR3
+            Speed:	1600 MHz
+            Status:	OK
+            Manufacturer:	0x80AD
+            Part Number:	0x484D54343531533641465238412D50422020
+            Serial Number:	-
+
+    NVMExpress
+      Generic SSD Controller:
+        TS960GJDM850:
+            Capacity:	960.2 GB (960,197,124,096 bytes)
+            TRIM Support:	Yes
+            Model:	TS960GJDM850
+            Revision:	R1109
+            Serial Number:	671381ABF09754340016
+            Link Width:	x4
+            Link Speed:	5.0 GT/s
+            Detachable Drive:	No
+            BSD Name:	disk0
+            Partition Map Type:	GPT (GUID Partition Table)
+            Removable Media:	No
+            S.M.A.R.T. status:	Verified
+            Volumes:
+              EFI:
+                  Capacity:	314.6 MB (314,572,800 bytes)
+                  File System:	MS-DOS FAT32
+                  BSD Name:	disk0s1
+                  Content:	EFI
+                  Volume UUID:	E783267B-A4C3-3556-B751-DBED770EB996
+              disk0s2:
+                  Capacity:	959.88 GB (959,882,506,240 bytes)
+                  BSD Name:	disk0s2
+                  Content:	Apple_APFS
+
+    PCI
+      This computer doesn’t contain any PCI cards or devices. If you
+      installed or connected a PCI card or device, make sure it is properly
+      installed.
+      
+    Parallel SCSI
+      This computer doesn't contain any Parallel SCSI devices. If you
+      installed Parallel SCSI adapters, make sure they're seated properly and
+      that any devices connected are powered on, connected properly, and
+      correctly terminated.
+      
+    Power
+      Battery Information:
+        Model Information:
+            Manufacturer:	SMP
+            Device Name:	bq20z451
+            Pack Lot Code:	0
+            PCB Lot Code:	0
+            Firmware Version:	702
+            Hardware Revision:	000a
+            Cell Revision:	389
+        Charge Information:
+            Fully Charged:	No
+            Charging:	No
+            Full Charge Capacity (mAh):	4920
+            State of Charge (%):	91
+        Health Information:
+            Cycle Count:	1009
+            Condition:	Service Recommended
+      
+      System Power Settings:
+        AC Power:
+            System Sleep Timer (Minutes):	1
+            Disk Sleep Timer (Minutes):	0
+            Display Sleep Timer (Minutes):	3
+            Wake on AC Change:	No
+            Wake on Clamshell Open:	Yes
+            Wake on LAN:	No
+            AutoPowerOff Delay:	259200
+            AutoPowerOff Enabled:	1
+            Display Sleep Uses Dim:	Yes
+            Hibernate Mode:	3
+            PrioritizeNetworkReachabilityOverSleep:	0
+        Battery Power:
+            System Sleep Timer (Minutes):	1
+            Disk Sleep Timer (Minutes):	0
+            Display Sleep Timer (Minutes):	3
+            Wake on AC Change:	No
+            Wake on Clamshell Open:	Yes
+            AutoPowerOff Delay:	259200
+            AutoPowerOff Enabled:	1
+            Current Power Source:	Yes
+            Display Sleep Uses Dim:	Yes
+            Hibernate Mode:	3
+            Reduce Brightness:	Yes
+      
+      Hardware Configuration:
+        UPS Installed:	No
+      
+      AC Charger Information:
+        Connected:	No
+        Charging:	No
+
+    Printers
+      Status:  The printers list is empty. To add printers, choose Apple menu               
+               > System Preferences…, click Printers & Scanners, and then
+               click Add (+).
+      CUPS Version:  CUPS/2.3.4 (macOS 11.7.10; x86_64) IPP/2.0
+  
+    SAS
+      This computer doesn't contain any SAS devices. If you installed SAS
+      devices, make sure they are connected properly and powered on.
+      
+    SATA
+      This computer doesn't contain any Serial ATA devices. If you installed
+      Serial ATA devices, make sure they are connected properly and powered
+      on.
+      
+    SPI
+      This computer doesn’t contain any SPI devices.
+
+    Storage
+
+      TS960GJDM850 Media:
+          Free:	394.89 GB (394,892,845,056 bytes)
+          Capacity:	959.88 GB (959,882,506,240 bytes)
+          Mount Point:	/
+          File System:	APFS
+          Writable:	No
+          Ignore Ownership:	No
+          BSD Name:	disk1s1s1
+          Volume UUID:	2AB8457E-3EDE-4494-A63A-92B0B8A4E577
+          Physical Drive:
+          Device Name:	TS960GJDM850
+          Media Name:	AppleAPFSMedia
+          Medium Type:	SSD
+          Protocol:	PCI-Express
+          Internal:	Yes
+          Partition Map Type:	Unknown
+          S.M.A.R.T. Status:	Verified
+  
+    Thunderbolt/USB4
+      Thunderbolt Bus:
+          Vendor Name:	Apple Inc.
+          Device Name:	MacBook Pro
+          UID:	0x0001000F05E738C0
+          Route String:	0
+          Firmware Version:	17.2
+          Domain UUID:	FF259FD2-6CE1-7F54-B800-714110F45009
+          Port:
+              Status:	No device connected
+              Link Status:	0x101
+              Speed:	Up to 20 Gb/s x1
+              Current Link Width:	0x1
+              Receptacle:	1
+              Link Controller Firmware Version:	0.11.0
+          Port:
+              Status:	No device connected
+              Link Status:	0x101
+              Speed:	Up to 20 Gb/s x1
+              Current Link Width:	0x1
+              Receptacle:	2
+              Link Controller Firmware Version:	0.11.0
+
+    USB
+      USB 3.0 Bus:
+          Host Controller Driver:	AppleUSBXHCILPT
+          PCI Device ID:	0x9c31 
+          PCI Revision ID:	0x0004 
+          PCI Vendor ID:	0x8086 
+      
+          Apple Internal Keyboard / Trackpad:
+              Product ID:	0x0259
+              Vendor ID:	0x05ac (Apple Inc.)
+              Version:	2.24
+              Manufacturer:	Apple Inc.
+              Location ID:	0x14400000
+          
+          BRCM20702 Hub:
+              Product ID:	0x4500
+              Vendor ID:	0x0a5c  (Broadcom Corp.)
+              Version:	1.00
+              Manufacturer:	Apple Inc.
+              Location ID:	0x14300000
+	      
+                  Bluetooth USB Host Controller:
+                      Product ID:	0x8289
+                      Vendor ID:	0x05ac (Apple Inc.)
+                      Version:	1.50
+                      Manufacturer:	Apple Inc.
+                      Location ID:	0x14330000
+
+** Network
+    Firewall
+      Firewall Settings:
+          Mode:	Allow all incoming connections
+          Firewall Logging:	Yes
+          Stealth Mode:	No      
+
+    Locations
+      Automatic:
+        Active Location:	Yes
+        Services:
+          Wi-Fi:
+              Type:	IEEE80211
+              BSD Device Name:	en0
+              Hardware (MAC) Address:	6c:40:08:8d:e6:a4
+              IPv4:
+                  Configuration Method:	DHCP
+              IPv6:
+                  Configuration Method:	Automatic
+              Proxies:
+                  Exceptions List:	
+                  HTTP Proxy Enabled:	No
+                  HTTP Proxy Server:	
+                  HTTPS Proxy Enabled:	No
+                  HTTPS Proxy Server:	
+                  Auto Configure Enabled:	0
+                  SOCKS Proxy Enabled:	No
+                  SOCKS Proxy Server:	
+              IEEE80211:
+                  Join Mode Fallback:	Do Nothing
+                  Power Enabled:	1
+                  Remember Joined Networks:	1
+                  Version:	3000
+          Bluetooth PAN:
+              Type:	Ethernet
+              BSD Device Name:	en3
+              IPv4:
+                  Configuration Method:	DHCP
+              IPv6:
+                  Configuration Method:	Automatic
+              Proxies:
+                  Exceptions List:	
+                  HTTP Proxy Enabled:	No
+                  HTTP Proxy Server:	
+                  HTTPS Proxy Enabled:	No
+                  HTTPS Proxy Server:	
+                  Auto Configure Enabled:	0
+                  SOCKS Proxy Enabled:	No
+                  SOCKS Proxy Server:	
+          Thunderbolt Bridge:
+              Type:	Bridge
+              BSD Device Name:	bridge0
+              Hardware (MAC) Address:	82:0f:17:9c:e3:00
+              IPv4:
+                  Configuration Method:	DHCP
+              IPv6:
+                  Configuration Method:	Automatic
+              Proxies:
+                  Exceptions List:	
+                  HTTP Proxy Enabled:	No
+                  HTTP Proxy Server:	
+                  HTTPS Proxy Enabled:	No
+                  HTTPS Proxy Server:	
+                  Auto Configure Enabled:	0
+                  SOCKS Proxy Enabled:	No
+                  SOCKS Proxy Server:
+
+    Volumes
+      home:
+          Type:	autofs
+          Mount Point:	/System/Volumes/Data/home
+          Mounted From:	map auto_home
+          Automounted:	Yes
+
+    WWAN
+      No Wireless Wide Area Network could be obtained for this system. WWAN
+      is wireless connectivity through cellular tower technology. Please
+      connect a WWAN device and try again.
+      
+    Wi-Fi
+      Software Versions:
+          CoreWLAN:	16.0 (1657)
+          CoreWLANKit:	16.0 (1657)
+          Menu Extra:	17.0 (1728)
+          System Information:	15.0 (1502)
+          IO80211 Family:	12.0 (1200.12.2b1)
+          Diagnostics:	11.0 (1163)
+          AirPort Utility:	6.3.9 (639.15)
+
+      Interfaces:
+        en0:
+            Card Type:	AirPort Extreme  (0x14E4, 0x112)
+            Firmware Version:	Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1680.11)
+            MAC Address:	6c:40:08:8d:e6:a4
+            Locale:	RoW
+            Country Code:	US
+            Supported PHY Modes:	802.11 a/b/g/n/ac
+            Supported Channels: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 36, 40,
+                                44, 48, 52, 56, 60, 64, 100, 104, 108, 112,
+                                116, 120, 124, 128, 132, 136, 140, 144, 149,
+                                153, 157, 161, 165
+            Wake On Wireless:	Supported
+            AirDrop:	Supported
+            AirDrop Channel:	149
+            Auto Unlock:	Supported
+            Status:	Connected
+            Current Network Information:
+              HUAWEI-TXWPNR:
+                  PHY Mode:	802.11n
+                  BSSID:	94:77:2b:0d:cf:a0
+                  Channel:	10
+                  Country Code:	US
+                  Network Type:	Infrastructure
+                  Security:	WPA2 Personal
+                  Signal / Noise:	-34 dBm / -98 dBm
+                  Transmit Rate:	130
+                  MCS Index:	15
+            Other Local Wi-Fi Networks:
+              CU_GFNE:
+                  PHY MODE:	802.11
+                  BSSID:	D4:F7:56:E9:CF:FB
+                  CHANNEL:	6
+                  COUNTRY CODE:	CN
+                  NETWORK TYPE:	INFRASTRUCTURE
+                  SECURITY:	WPA/WPA2 PERSONAL
+                  Signal / Noise:	-57 dBm / 0 dBm
+              CU_aIZ5:
+                  PHY Mode:	802.11
+                  BSSID:	68:1a:a4:e7:11:c8
+                  Channel:	11
+                  Country Code:	CN
+                  Network Type:	Infrastructure
+                  Security:	WPA2 Personal
+                  Signal / Noise:	-73 dBm / 0 dBm
+
+              CU_aIZ5_5G:
+                  PHY Mode:	802.11
+                  BSSID:	68:1a:a4:e7:11:c9
+                  Channel:	161
+                  Country Code:	CN
+                  Network Type:	Infrastructure
+                  Security:	WPA/WPA2 Personal
+                  Signal / Noise:	-89 dBm / 0 dBm
+              HUAWEI-TXWPNR_5G:
+                  PHY Mode:	802.11
+                  BSSID:	94:77:2b:0d:cf:a4
+                  Channel:	149
+                  Country Code:	US
+                  Network Type:	Infrastructure
+                  Security:	WPA/WPA2 Personal
+                  Signal / Noise:	-50 dBm / 0 dBm
+              TP-LINK_Chris:
+                  PHY Mode:	802.11
+                  BSSID:	ec:60:73:1a:c4:1f
+                  Channel:	36
+                  Country Code:	CN
+                  Network Type:	Infrastructure
+                  Security:	WPA/WPA2 Personal
+                  Signal / Noise:	-76 dBm / 0 dBm
+              TP-LINK_Chris:
+                  PHY Mode:	802.11
+                  BSSID:	ec:60:73:1a:c4:1d
+                  Channel:	1,+1
+                  Country Code:	CN
+                  Network Type:	Infrastructure
+                  Security:	WPA/WPA2 Personal
+                  Signal / Noise:	-51 dBm / 0 dBm
+              yyyyyyy:
+                  PHY Mode:	802.11
+                  BSSID:	58:95:d8:18:9b:c6
+                  Channel:	11
+                  Country Code:	CN
+                  Network Type:	Infrastructure
+                  Security:	WPA/WPA2 Personal
+                  Signal / Noise:	-82 dBm / 0 dBm
+** Software
+
+Launched:               2014
+Date of Purchase:       October 3, 2014
+
+Model Identifier:	MacBookPro11,1
+Model Number:           A1502
+EMC:                    2875
+
+** 其他
+Last OS:                macOS Catalina Version 10.15.7 （当前系统)
+Official Max OS:        macOS 11.7.9 Big Sur
+Unofficial Max OS:      macOS 13 Ventura (using OpenCore Legacy Patcher)
+                        warning: This is an unsupported third-party patch, 
+                                 some technical knowledge required, 
+                                 use entirely at your own risk.
